@@ -441,7 +441,7 @@ char *yytext;
 #line 1 "remove_space.l"
 #line 2 "remove_space.l"
 
-    #include "y.tab.c"
+    #include"y.tab.h"
 
 #line 447 "lex.yy.c"
 #line 448 "lex.yy.c"
